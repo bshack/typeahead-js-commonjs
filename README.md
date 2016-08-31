@@ -2,7 +2,7 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 
-[typeahead-js-commonjs]
+typeahead-js-commonjs
 =======================
 
 (typeahead.js w/commonjs support)
