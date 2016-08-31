@@ -2,10 +2,10 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 
-[typeahead.js][gh-page]
+[typeahead-js-commonjs]
 =======================
 
-(w/commonjs support)
+(typeahead.js w/commonjs support)
 
 Inspired by [twitter.com]'s autocomplete search functionality, typeahead.js is 
 a flexible JavaScript library that provides a strong foundation for building 
