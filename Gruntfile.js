@@ -149,7 +149,7 @@ module.exports = function(grunt) {
         deps: {
           default: ['$'],
           amd: ['jquery'],
-          cjs: ['jquery'],
+          // cjs: ['jquery'],
           global: ['jQuery']
         }
       }
