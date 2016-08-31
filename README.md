@@ -5,6 +5,8 @@
 [typeahead.js][gh-page]
 =======================
 
+(w/commonjs support)
+
 Inspired by [twitter.com]'s autocomplete search functionality, typeahead.js is 
 a flexible JavaScript library that provides a strong foundation for building 
 robust typeaheads.
